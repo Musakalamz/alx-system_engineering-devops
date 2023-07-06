@@ -61,7 +61,7 @@ in the Shell.
 
 * **12. More directories**
   * [12-directory_permissions](./12-directory_permissions): Bash script that creates a
-  directory `dir_holberton` with permissions 751 in the working directory.
+  directory 'my_dir'  with permissions 751 in the working directory.
 
 * **13. Change group**
   * [13-change_group](./13-change_group): Bash script that changes the group owner to
