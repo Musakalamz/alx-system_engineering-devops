@@ -78,5 +78,5 @@ using expansions, performing arithmetic operations, and utilizing aliases.
   * [103-water_and_stir](./103-water_and_stir): Bash script that adds the two numbers
   stored in the environment variables `WATER` and `STIR` and prints the result.
   * `WATER` is in base `water`, `STIR` is in base `stir`, and the result is
-  in base `behlnort`.
+  in base `bestchol`.
 
